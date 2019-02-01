@@ -3,8 +3,6 @@ Android Swiperefresh layout top and bottom
 
 ### Usage
 
-If you want an example on how to use it, you can find an example app in this repo.
-
 ```
 <com.hemath.library.SwipyRefreshLayout
         android:id="@+id/swipyrefreshlayout"
